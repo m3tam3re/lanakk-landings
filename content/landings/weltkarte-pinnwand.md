@@ -111,7 +111,8 @@ title = "Weltkarte Pinnwand"
 }
 </script>
 
-{{% img-left title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/pinne_Deine_Reisen_mit_einer_Weltkarte_Pinnwand-min.jpg?v=1601035664" alt="Gestalte Deine Weltkarte-Pinnwand mit all Deinen Erlebnissen." %}} Einmal die Welt bereisen und an den wichtigsten Orten haltmachen. Davon träumen viele Menschen. Mit einer Weltkarte als Pinnwand im XXL-Format lässt es sich bestens weiterträumen. Zukünftige Reiseziele können mit [Pinnadeln](https://www.lanakk.com/collections/zubehor/products/pinnadeln?variant=16021692055615) oder kleinen [verschiedenen Reißzwecken](https://www.lanakk.com/collections/zubehor) markiert und bisher bereiste Orte mit Fotos und Erinnerungsstücken versehen werden. Die Design Leinwandbilder von Lana KK® zeigen sowohl im Retro-Look als auch in moderner Farbgebung eine zeitlos schöne und verträumte Welt. Viele Länder, Städte sowie Inseln und Ozeane sind darauf namentlich genannt. Doch hierbei handelt es sich nicht um eine Schulweltkarte, sie ist vielmehr ein in echter Manufaktur-Handarbeit gefertigtes Kunstwerk. Die Weltkarte Pinnwand wird zu Dir auf Kork gespannt fertig geliefert. Damit kannst Du die Weltkarte zum Anpinnen von Notizen oder Reiseerinnerungen benutzen.
+{{% img-left title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/pinne_Deine_Reisen_mit_einer_Weltkarte_Pinnwand-min.jpg?v=1601035664" alt="Gestalte Deine Weltkarte-Pinnwand mit all Deinen Erlebnissen." %}} 
+Einmal die Welt bereisen und an den wichtigsten Orten haltmachen. Davon träumen viele Menschen. Mit einer Weltkarte als Pinnwand im XXL-Format lässt es sich bestens weiterträumen. Zukünftige Reiseziele können mit [Pinnadeln](https://www.lanakk.com/collections/zubehor/products/pinnadeln?variant=16021692055615) oder kleinen [verschiedenen Reißzwecken](https://www.lanakk.com/collections/zubehor) markiert und bisher bereiste Orte mit Fotos und Erinnerungsstücken versehen werden. Die Design Leinwandbilder von Lana KK® zeigen sowohl im Retro-Look als auch in moderner Farbgebung eine zeitlos schöne und verträumte Welt. Viele Länder, Städte sowie Inseln und Ozeane sind darauf namentlich genannt. Doch hierbei handelt es sich nicht um eine Schulweltkarte, sie ist vielmehr ein in echter Manufaktur-Handarbeit gefertigtes Kunstwerk. Die Weltkarte Pinnwand wird zu Dir auf Kork gespannt fertig geliefert. Damit kannst Du die Weltkarte zum Anpinnen von Notizen oder Reiseerinnerungen benutzen.
 {{% /img-left %}}
 
 ## Kork-Pinnwand: Individuelle Weltkarte auf Leinwand bestellen
@@ -148,7 +149,8 @@ Jede Weltkarte ist ein Unikat - handgefertigt von uns, vollendet von Dir
 
 ## Weil Nachhaltigkeit wichtig ist:
 
-{{% block %}}Die Weltkarte von Lana KK® kommt durchdacht zu Dir nach Hause. Weil Dir und auch uns die Natur wertvoll ist, legen wir in der Produktion besonderen Wert auf den Prozess der Herstellung und die Materialien. 🌱 
+{{% block %}}
+Die Weltkarte von Lana KK® kommt durchdacht zu Dir nach Hause. Weil Dir und auch uns die Natur wertvoll ist, legen wir in der Produktion besonderen Wert auf den Prozess der Herstellung und die Materialien. 🌱 
 
 gedruckt wird mit ökologischen, wasserbasierten und vollständig abbaubaren Farben
 gemacht für die Ewigkeit, mit einem zeitlosen Design und langlebigen, nachhaltigen Materialien
@@ -167,13 +169,15 @@ viele Materialien beziehen wir aus Europa um auch hier auf möglichst nahe Liefe
 
 ## Brillante Weltkarte als Pinnwand: Großartige Druckqualität
 
-{{% img-right title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/Deine_Weltkarte-Pinnwand_in_Handarbeit_hergestellt-min.jpg?v=1601035309" alt="Plane Deine nächste Weltreise und halte alle Orte fest an denen Du Halt machen willst.." %}} Die Weltkarte als Pinnwand im Großformat gibt es bei Lana KK® in vielen aufeinander abgestimmten Farbkombinationen. Ob als Retromotiv, in moderner Frozen-Optik oder in zeitlos schöner Graphit-Struktur – hier findest Du die passende Wanddeko Weltkarte für Dein Wohnzimmer oder Büro. Sämtliche Designs und Motive, die man auf Lana KK® finden kann, überzeugen durch die hervorragende Druckqualität – so auch die Pinnwand-Weltkarte. Sie ist in brillanten, UV-echten Farben auf hochwertigen Materialien aufgebracht. Dadurch erhält sich diese Leuchtkraft der Farben über Jahrzehnte hinweg, ohne zu verblassen. Auch bei der Pinnwand aus Kork mit Weltkartenmotiv kommt die neueste Drucktechnologie mit bis zu 10 Druckfarben zum Einsatz. Egal ob es sich dabei um eine Karte in Schwarz-Weiß, Graustufen oder in Metall-Tönen handelt, es wird ein natürliches Druckergebnis mit feinster Auflösung und realistischer Darstellung erreicht.
+{{% img-right title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/Deine_Weltkarte-Pinnwand_in_Handarbeit_hergestellt-min.jpg?v=1601035309" alt="Plane Deine nächste Weltreise und halte alle Orte fest an denen Du Halt machen willst.." %}} 
+Die Weltkarte als Pinnwand im Großformat gibt es bei Lana KK® in vielen aufeinander abgestimmten Farbkombinationen. Ob als Retromotiv, in moderner Frozen-Optik oder in zeitlos schöner Graphit-Struktur – hier findest Du die passende Wanddeko Weltkarte für Dein Wohnzimmer oder Büro. Sämtliche Designs und Motive, die man auf Lana KK® finden kann, überzeugen durch die hervorragende Druckqualität – so auch die Pinnwand-Weltkarte. Sie ist in brillanten, UV-echten Farben auf hochwertigen Materialien aufgebracht. Dadurch erhält sich diese Leuchtkraft der Farben über Jahrzehnte hinweg, ohne zu verblassen. Auch bei der Pinnwand aus Kork mit Weltkartenmotiv kommt die neueste Drucktechnologie mit bis zu 10 Druckfarben zum Einsatz. Egal ob es sich dabei um eine Karte in Schwarz-Weiß, Graustufen oder in Metall-Tönen handelt, es wird ein natürliches Druckergebnis mit feinster Auflösung und realistischer Darstellung erreicht.
 
 {{% /img-right %}}
 
 ## Für Individualisten: Die Weltkarte auf Glas
 
-{{% img-left title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/Beschrifte_Deine_Weltkarte_Pinnwand-min.jpg?v=1601035309" alt=" Pinne Deine schönsten Erinnerungen und Reisen auf der Kork Weltkarte als Pinnwand.." %}} Eine Weltkarte auf Glas von Lana KK® entspricht den höchsten Ansprüchen an Qualität und Design. Jede [Glas-Weltkarte](https://www.lanakk.com/collections/glasbilder) wird in Manufakturarbeit hergestellt und mit besonders hochwertigen Farben hinter Echtglas gebracht. Somit wird die magnetische Weltkarte hinter Glas ein echtes Kunstwerk. Modern und edel strahlen die Farben hinter der 4 mm starken Glasscheibe. Das Echtglas Wandbild bekommt eine optische Tiefenwirkung und klare intensiv strahlende Farben durch das Verstärken durch den Lichteinfall in die aufgebrachte Glasscheibe. 
+{{% img-left title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/Beschrifte_Deine_Weltkarte_Pinnwand-min.jpg?v=1601035309" alt=" Pinne Deine schönsten Erinnerungen und Reisen auf der Kork Weltkarte als Pinnwand.." %}}
+Eine Weltkarte auf Glas von Lana KK® entspricht den höchsten Ansprüchen an Qualität und Design. Jede [Glas-Weltkarte](https://www.lanakk.com/collections/glasbilder) wird in Manufakturarbeit hergestellt und mit besonders hochwertigen Farben hinter Echtglas gebracht. Somit wird die magnetische Weltkarte hinter Glas ein echtes Kunstwerk. Modern und edel strahlen die Farben hinter der 4 mm starken Glasscheibe. Das Echtglas Wandbild bekommt eine optische Tiefenwirkung und klare intensiv strahlende Farben durch das Verstärken durch den Lichteinfall in die aufgebrachte Glasscheibe. 
 Die Weltkarte als Glasbild kann man als magnetische Pinnwand oder als reines Glasbild bestellen. Auf der Weltkarte als magnetische Pinnwand kann man mittels Neodym Magneten Reiseziele und bereits besuchte Orte pinnen. Auf allen Glas-Weltkarten kann man seine Reisen und Erinnerungen mit Kreidemarkern markieren, mit Flaggen Stickern kennzeichnen oder Markierung Stickern individuell gestalten.  
 Egal wo eine Weltkarte als Pinnwand angebracht wird, sie zieht sofort alle Blicke auf sich. Für Weltenbummler und Entdecker ist sie das ideale Accessoire, um die eigenen vier Wände stilvoll und modern zu dekorieren.
 
@@ -239,6 +243,10 @@ Dein fertiges Kunstwerk und der Plan Deiner Weltreise ist final auf ewig auf der
 
 ## Die Weltkarte eine detailgetreue Darstellung unserer Erde
 
-{{% block %}}Wusstest Du schon das die Erde einen Äquatordurchmesser von 12.756,27 km hat und die Luft die wir atmen unter anderem aus 78,08 % Stickstoff und 20,95% Sauerstoff besteht? Unsere Erde ist etwa 4,6 Milliarden Jahre alt und die Erdoberfläche besteht zu etwa zwei Dritteln aus Wasser. Daher auch der gängige Name "Blauer Planet". [Mehr Interessantes zu unserer Erde findest Du unter Wikipedia](https://de.wikipedia.org/wiki/Erde).
+{{% block %}}
+Wusstest Du schon das die Erde einen Äquatordurchmesser von 12.756,27 km hat und die Luft die wir atmen unter anderem aus 78,08 % Stickstoff und 20,95% Sauerstoff besteht? Unsere Erde ist etwa 4,6 Milliarden Jahre alt und die Erdoberfläche besteht zu etwa zwei Dritteln aus Wasser. Daher auch der gängige Name "Blauer Planet". 
+[Mehr Interessantes zu unserer Erde findest Du unter Wikipedia](https://de.wikipedia.org/wiki/Erde).
 
-Doch nicht immer sah die Welt wie heute aus, unsere Erde formte sich im Laufe der Zeitperioden und veränderte ihr Aussehen zu der Welt wie wir sie heute kennen. Vor Millionen von Jahren lebten Dinosaurier genau hier wo wir jetzt sind. [Mehr erfahren über das Leben der Dinosaurier](https://www.welt.de/themen/dinosaurier/).{{% /block %}}
+Doch nicht immer sah die Welt wie heute aus, unsere Erde formte sich im Laufe der Zeitperioden und veränderte ihr Aussehen zu der Welt wie wir sie heute kennen. Vor Millionen von Jahren lebten Dinosaurier genau hier wo wir jetzt sind. 
+[Mehr erfahren über das Leben der Dinosaurier](https://www.welt.de/themen/dinosaurier/).
+{{% /block %}}

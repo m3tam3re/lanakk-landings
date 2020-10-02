@@ -6,6 +6,95 @@ description = ""
 title = "Landkarten"
 +++
 
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": [
+		{
+			"@type": "Question",
+			"name": "Wo kann ich eine personalisierte Landkarte kaufen??",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Bei Lana KK® findest Du viele schöne Landkarten in tollen Designs. Diese kannst Du mit Namen, Datum, einem schönen Spruch oder einer persönlichen Widmung personalisieren lassen.</ br> <p>Wenn Du uns die passende Datei sendest, so können wir gern auch ein Logo o.ä. mit auf Deine Landkarte drucken. Nimm <a href=https://www.lanakk.com/pages/deine-individuelle-weltkarte>Kontakt</a> mit uns auf und wir kümmern uns um den Rest.</p>"
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo finde ich eine Landkarte mit Städten meiner Wahl?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Exklusive und toll gestaltete Landkarten findest Du bei Lana KK®. Sende uns einfach eine Liste der Städte zu, die Du gern auf Deiner Landkarte haben möchtest, dann tragen wir sie für Dich nach."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo erhalte ich Landkarten nach Maß",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Lana KK® bietet Dir Landkarten in unterschiedlichen Formaten. Neben den Standardmaßen 60x40 cm, 80x60 cm, 100x70 cm, 120x80 cm, 150x100 cm und 200x130 cm können auch Sondermaße gefertigt werden.  Schreibe uns, welches Format Du für Deine Landkarte benötigst und wir kümmern uns um den Rest."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie behalte ich die Übersicht über meine Reisen?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Um die Übersicht über Deine Reisen zu behalten, bieten sich Landkarten zum Pinnen und Markieren an. In die Landkarten mit Korkrückwand kannst Du Pinnnadeln stecken um so Deine bisherigen Reisen festzuhalten. Auf einer Landkarte als Echt Glasbild kannst Du mit einem Kreidemarker oder Stickern ebenso Reiseorte markieren oder Routen planen. Auf einem Landkarten-Poster funktioniert dies ebenso wunderbar mit einem Stift oder Stickern. Die Landkarten von Lana KK® sind besonders für diese Zwecke ausgelegt."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Welche Wanddeko passt ins Büro?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Eine Landkarte ist immer ein besonderer Blickfang. Auf ihr lassen sich bereits besuchte Orte markieren, aber auch ggf. Zweigstellen oder die Standorte von Firmenpartnern im geschäftlichen Bereich kennzeichnen. Landkarten vermitteln zudem den Eindruck von Weltgewandtheit und Voraussicht. Auch im privaten Bereich ist eine Landkarte für die Planung von Reisen äußerst hilfreich."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Woher bekomme ich eine Landkarte als Sonderanfertigung?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Lana KK® hilft Dir bei der Gestaltung der Traum-Landkarte. Wir fertigen für Dich eine Karte eines bestimmten Landes oder einer Region. Auch Farbanpassungen bestehender Landkarten sind kein Problem. Ebenso besteht die Möglichkeit Sondermaße zu fertigen oder die Landkarten mit Widmungen, Namen oder Zitaten zu personalisieren."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Welches Geschenk für Reiselustige?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Eine Landkarte ist ideal zum Markieren bereits besuchter Städte und Länder, dem Planen neuer Ziele oder entwickeln von Reiserouten. Auch Fotos und andere Erinnerungsstücke können an der Landkarte angebracht werden, was das Wandbild nicht nur informativ, sondern auch sehr dekorativ macht."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Welches Geschenk zur Hochzeit?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Ein tolles Geschenk zur Hochzeit sind Landkarten. Auf Ihnen kann das Brautpaar seine gemeinsamen Reisen markieren oder aber auch die Hochzeitsgäste ihre Herkunftsorte einzeichnen. Nach und nach entwickelt sich so ein lebendiges Kunstwerk, welches immer weiter wächst und äußerst dekorativ ist. Die Lana KK® Landkarten können zusätzlich mit einer Personalisierung versehen werden wie den Namen des Brautpaares, dem Hochzeitsdatum oder einem Glückwunsch."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo gibt es Landkarten?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Verschiedene Landkarten wie beispielsweise von Deutschland, Österreich, Frankreich oder Europa findest Du bei Lana KK®. Neben qualitativ hochwertigen Landkarten als Leinwand mit Korkrückwand zum Pinnen, gibt es auch Poster, Klebeposter oder Echt Glasbilder auf denen Reisen markiert oder geplant werden können."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie kann ich mein Homeoffice verschönern?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Ein Wandbild verleiht Räumen auf einfache Weise eine ganz andere Wirkung. Sehr dekorativ sind Landkarten. Sie werten sowohl den Raum optisch auf und sind gleichzeitig informativ. Durch die Markierungsfunktion bietet Dir die Landkarte einen Mehrwert. Plane Geschäftsreisen oder markiere Firmenstandorte. Selbstverständlich kannst Du auch Deine privaten Reisen damit Pinnen oder zukünftige Reiseziele planen. Landkarten verschiedener Länder und Regionen findest Du bei Lana KK®."
+			}
+		}
+	]
+}
+</script>
+
 ## Schicke Landkarten für jeden Raum
 {{% img-left title="Landkarte Österreich im Wohnzimmer" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/oesterreichkarte_leinwand_wohnzimmer-min.jpg?v=1601468552" alt="landkarte_oesterreich_leinwand_im_wohnzimmer" %}}Eine kunstvoll gestaltete Landkarte ist informativ und dekorativ zugleich. Sie ist für Dein Büro genauso geeignet wie für Dein Zuhause. Ob mit kräftigen und brillanten Farben oder mit weichen Pastell-Tönen als Landkarte Pinnwand. Finde Deine passende Europakarte, [Deutschlandkarte](https://www.lanakk.com/collections/landkarten-pinnwand), Österreich Karte, Frankreich Karte und weitere Länderkarten. Gern fertigen wir auch nach Deinen Vorstellungen Deine Landkarte ganz individuell. Eine Landkarte mit zusätzlichen Ausschnitten, speziellen Farben oder einer besonderen Größe? Eine Deutschlandkarte mit bestimmten Städten? Europa ganz detailliert beschriftet? Alles kein Problem. 😃 {{% /img-left %}}
 {{% block %}}Wir haben detailreiches Kartenmaterial und ein fähiges Designteam für Deine Traumkarte. Möchtest Du gern auf Deiner Landkarte Pinnwand eine Legende eingedruckt haben? Wir beraten Dich.😊{{% /block %}}

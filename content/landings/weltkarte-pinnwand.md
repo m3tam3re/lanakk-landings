@@ -5,6 +5,112 @@ date = "2012-04-06"
 description = ""
 title = "Weltkarte Pinnwand"
 +++
+
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": [
+		{
+			"@type": "Question",
+			"name": "Wie gestalte ich eine Weltkarte als Pinnwand?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Gestalte Deine Weltkarte als Pinnwand mit Deinen Erinnerungen, pinne Deine Reisen mit goldenen Pinnadeln, markiere mit Flaggen Stickern die Länder die Du bereits besucht hast. Hänge kleine Fotos rund um Deine Weltkarte um eine schicke Galerie zu gestalten. Nutze auch bunte Fäden um Pinnadeln zu verbinden um Reiserouten nachzustellen. Nutze verschieden farbige Pinnadeln um Ziele und Reisen zu unterscheiden."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie hänge ich eine Weltkarte-Kork auf?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Am besten Du nutzt eine Weltkarte Pinnwand als Leinwandbild mit Korkrückwand. So hast du sichtbar ein schickes Wandbild mit Pinnwandfunktion 😁. So kannst du mit Pinnadeln Deine Reisen und Ziele markieren, wie auf einer gewöhnlichen Pinnwand. Durch das Weltkarten Motiv mit beschrifteten Ländern und Meeren kannst du Dein eigenes Kunstwerk gestalten."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie kann ich Reisen dokumentieren?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Die wohl schönste Art Reisen festzuhalten ist mit einer Weltkarte als Pinnwand. Mit einer schick designten Weltkarte in passenden Farben für Dein Wohnzimmer oder Büro kannst Du mittels Pins all die Orte markieren die Du bereits besucht hast. Reiserouten nachstellen indem Du die Pins mit bunten Fäden verbindest oder bspw. mit Fähnchen Stickern Deine lieblings Länder hervorhebst."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie kann ich Reiserouten planen?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Eine wirklich stilvolle und zugleich praktische Variante ist wohl eine Weltkarte als Pinnwand. Mit einer Weltkarte als Pinnwand kannst Du all Deine Reisen und Ziele festhalten. Auf einem Blick kannst du so alle gepinnten Urlaube und all Deine neuen Ziele sehen. Und mittels bunten Fäden mit denen Du die einzelnen Pinnadeln verbindest Deine Reiserouten planen."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie kann ich meine Weltreise planen?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Plane Deine Weltreise mit einer schicken und gleichzeitig praktischen Weltkarte Pinnwand. Sehe auf einem Blick was die Welt Dir bietet und plane Deine Weltreise Route mittels goldenen Pinnadeln die Du an den Orten pinnst an den Du einen kurzen Stop machen willst. Hast du Deine Weltkarte Pinnwand einmal gestaltet, ist Deine Weltreise gleichzeitig in einem Kunstwerk festgehalten und Du kannst all Deinen Freunden bildlich Deine Geschichten erzählen."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie kann ich meine schönsten Reisen festhalten?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Eine wirklich eindrucksvolles Highlight um Deine schönsten Reisen festhalten zu können ist eine Weltkarte Pinnwand als schickes Wandbild für Dein Wohnzimmer, Essbereich, Büro oder Eingangsbereich. Du kannst all Deine liebsten Erinnerungen pinnen und auch zukünftige Reisen markieren. Ein wirklich wundervolles und persönliches Kunstwerk an Deiner Wand welches die Erfolge Deines Leben wiederspiegelt."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wie hänge ich meine Weltkarte Wandbild richtig auf?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Achte auf den Platz an Deiner Wand und die Größe Deiner Weltkarte als Wandbild. Es sollte rund um das Bild genügend leerer Platz bleiben damit die Weltkarte auch richtig wirken kann oder Du auch genügend Platz hast um später kleine Urlaubsfotos direkt daneben aufhängen zu können."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo bekomme ich eine schöne Weltkarte her?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Wirklich edle Design Weltkarten in einer besonders hochwertigen Qualität bekommt man bei Lana KK®. Lana KK® stellt Wandbilder und Weltkarten als Pinnwand seit Anfang 2004 her und achtet bei der Herstellung in Ihrer Manufaktur in Deutschland, Sachsen besonders auf nachhaltige und hochwertige Materialien, persönlichen Kundenservice und sagenhafte 100 Tage Rückgaberecht."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo bekomme ich eine hochwertige Weltkarte her?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Exklusive Design Weltkarten in Premium und Luxus Qualität bekommt man bei Lana KK®. Lana KK® stellt Wandbilder und Weltkarten als Pinnwand seit Anfang 2004 her und achtet bei der Herstellung in Ihrer Manufaktur in Deutschland, Sachsen besonders auf nachhaltige und hochwertige Materialien, persönlichen Kundenservice und sagenhafte 100 Tage Rückgaberecht."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo bekomme ich eine Weltkarte nach Maß?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Exklusive Design Weltkarten in Premium und Luxus Qualität bekommt man bei Lana KK®. Hier kann man Wünsche wie eine Maßfertigung, spezielle Farbanpassungen der Weltkarte oder auch eine ganz persönliche Vision eines Landkartenausschnittes im gewünschten Design umsetzen lassen. Auch der Wunsch mit weniger oder mehr Beschriftung der Ländernamen und Meere können umgesetzt werden."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo bekomme ich eine individuelle Weltkarte?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Individuelle Design Weltkarten in hochwertiger Qualität bekommt man bei Lana KK®. Ob Wunschgröße, spezielle Farbanpassungen, eingedruckte persönliche Legende oder auch eine ganz persönliche Vision eines Landkartenausschnittes im gewünschten Design, kann man hier speziell Herstellen lassen. Auch der Wunsch mit weniger oder mehr Beschriftung der Ländernamen und Meere können umgesetzt werden."
+			}
+		},
+		{
+			"@type": "Question",
+			"name": "Wo bekomme ich eine Weltkarte als Sonderanfertigung her?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Eine ganz besondere Weltkarte nach eigenen Vorstellungen kann man bei Lana KK® individuell herstellen lassen. Ob Maßanfertigung, Farbanpassungen, Namen eindrucken lassen oder auch feste Markierungen die bereits in der Weltkarte drin sein sollen kannst du nach Deinen persönlichen Vorstellungen bestellen. Auch der Wunsch mit weniger oder mehr Beschriftung der Ländernamen und Meere können umgesetzt werden."
+			}
+		}
+	]
+}
+</script>
+
 {{% img-left title="mein Titel mit Keywords" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/pinne_Deine_Reisen_mit_einer_Weltkarte_Pinnwand-min.jpg?v=1601035664" alt="Gestalte Deine Weltkarte-Pinnwand mit all Deinen Erlebnissen." %}} Einmal die Welt bereisen und an den wichtigsten Orten haltmachen. Davon träumen viele Menschen. Mit einer Weltkarte als Pinnwand im XXL-Format lässt es sich bestens weiterträumen. Zukünftige Reiseziele können mit [Pinnadeln](https://www.lanakk.com/collections/zubehor/products/pinnadeln?variant=16021692055615) oder kleinen [verschiedenen Reißzwecken](https://www.lanakk.com/collections/zubehor) markiert und bisher bereiste Orte mit Fotos und Erinnerungsstücken versehen werden. Die Design Leinwandbilder von Lana KK® zeigen sowohl im Retro-Look als auch in moderner Farbgebung eine zeitlos schöne und verträumte Welt. Viele Länder, Städte sowie Inseln und Ozeane sind darauf namentlich genannt. Doch hierbei handelt es sich nicht um eine Schulweltkarte, sie ist vielmehr ein in echter Manufaktur-Handarbeit gefertigtes Kunstwerk. Die Weltkarte Pinnwand wird zu Dir auf Kork gespannt fertig geliefert. Damit kannst Du die Weltkarte zum Anpinnen von Notizen oder Reiseerinnerungen benutzen.
 {{% /img-left %}}
 

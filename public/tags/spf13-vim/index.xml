@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spf13-vim on My New Hugo Site</title>
+    <link>http://example.org/tags/spf13-vim/</link>
+    <description>Recent content in spf13-vim on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/spf13-vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>spf13-vim 3.0 release and new website</title>
+      <link>http://example.org/landings/spf13-vim-3-0-release-and-new-website/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/landings/spf13-vim-3-0-release-and-new-website/</guid>
+      <description>Hello Hier ist mein Titel sdöjfklöjskf ksjdklfj sjdfkl kskjdfkl jlsjkd f gt&amp;lt;1&amp;gt;
+Hier ist noch ein Titel </description>
+    </item>
+    
+  </channel>
+</rss>

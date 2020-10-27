@@ -100,6 +100,12 @@ Die Weltkarte für Kinder mit Tieren, Sehenswürdigkeiten oder auch Dinosauriern
 Entdecke außerdem gemeinsam mit Deinen Kindern die Welt zur Zeit der Dinosaurier mit unserer Weltkarte für Kinder als Dino-Poster. Kindgerecht gezeichnete Dinofiguren wie den sanften pflanzenfressenden "Langhals" Diplodocus, den wehrhaften Triceratops oder den gefährlichen Tyrannosaurus sind auf dem Dino-Poster als Weltkarte für Kinder zu finden. Erforscht gemeinsam die Trias-, Jura- und Kreidezeit mit ihren spezifischen Dinosaurierarten und werdet zu echten Spezialisten in Sachen Urzeit Geschichte. 🦖 
 {{% /img-left %}}
 
+{{% block %}}
+
+{{< youtube Jha_85skvqA >}}
+
+{{% /block%}}
+
 ## Stilvoll mit der Weltkarte-Kinder das Kinderzimmer farbenfroh gestalten.
 
 {{% block %}}Gestalte Kinderzimmer im liebevollen Look mit unserer schicken informativen Weltkarte für Kinder als Kinder-Poster, Dino-Poster, Klebeposter oder Leinwandbild. Lass die Kinderaugen Deines Engels funkeln und bereichere das heimische Kinderzimmer um einen besonderen Blickfang. Dein Kind wird unsere Weltkarte für Kinder lieben. 😁

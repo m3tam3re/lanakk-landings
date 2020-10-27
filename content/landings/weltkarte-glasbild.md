@@ -5,6 +5,62 @@ date = "2012-04-06"
 description = ""
 title = "Weltkarten Glasbild"
 +++
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wie befestige ich mein Glasbild?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bei der Montage einer Weltkarte Glasbild muss sorgfältig vorgegangen werden. Bei Lana KK® wird Aufhängungsmaterials zu den Weltkarten mitgeliefert, damit Du Dein Glasbild direkt aufhängen kannst. Dennoch ist es wichtig, dass Du beim Aufhängen Deiner Weltkarte als Glasbild darauf achtest, dass Dübel und Schrauben für Deine Wand geeignet sind."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wo bekomme ich eine magnetische Weltkarte her?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bei Lana KK® findest Du magnetische Glasbilder als Weltkarten. Die Glasbilder besitzen eine Metallrückwand, wodurch es möglich ist diese mit Magneten zu markieren. Dadurch, dass das Glas den Abstand zum Metall erhöht sind für das Markieren von Reisezielen und Sehenswürdigkeiten auf der Weltkarte Glasbild sogenannte Neodym Magneten erforderlich. Neodym Magnete, oder auch Supermagnete, sind wesentlich stärker und halten so zuverlässig an Deiner Weltkarte Glasbild."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie kann ich eine Weltkarte als Glasbild gestalten?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gestalte Deine Weltkarte als Glasbild mit Deinen Erinnerungen, markiere Deine Reisen mit roten Kugelmagneten oder beschrifte Deine Weltkarte mit Deinen Erlebnissen . Hänge kleine Fotos rund um Deine Weltkarte um eine schicke Galerie zu gestalten. Nutze auch Flaggensticker um die Orte zu markieren an denen du bereits warst. Mit verschiedenen Magneten und Stickern kannst Du Ziele und Reisen unterschiedlich kennzeichnen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wo kann ich eine personalisierte Weltkarte als Glasbild kaufen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eine ganz besondere Weltkarte als Glasbild nach eigenen Vorstellungen kann man bei Lana KK® individuell herstellen lassen. Ob Maßanfertigung, Farbanpassungen, Namen eindrucken lassen oder auch feste Markierungen die bereits auf der Weltkarte  sein sollen kannst Du nach Deinen persönlichen Vorstellungen bestellen. Auch Wünsche wie weniger oder mehr Beschriftung können umgesetzt werden."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welches Bild für moderne Wohnungseinrichtung?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kreidemarker sind ideal um glatte Oberflächen wie Glas zu beschriften. Die Kreide wird in flüssiger Form über einen Stift aufgetragen und kann jederzeit wieder weggewischt werden. Du kannst sie nutzen um auf Deine Weltkarte von Lana KK® als Glasbild Reiseziele zu markieren, Routen zu planen oder Skizzen sowie Botschaften aufzuzeichnen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie hänge ich ein Glasbild auf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bohre an der gewünschten Position, an der Dein Glasbild hängen soll Löcher im richtigen Abstand in die Wand. Setze anschließend den Dübel ein. Schraube die Schrauben mit den Exzenterscheiben so weit ein, dass Du die Exzenterscheibe bei Bedarf noch ausrichten kannst. Hänge dann das Glasbild mit den Ösen der vormontierten Haltebleche auf die Exzenterscheiben. Überprüfe unbedingt den festen Sitz des Bildes nach dem Einhängen (Exzenterscheiben müssen in den Ösen sein). Prüfe mit einer Wasserwaage, ob das Bild gerade hängt. Sollte dies nicht der Fall sein so kannst Du das Bild nochmals abnehmen und mittels der Exzenterscheibe Defizite ausgleichen."
+      }
+    }
+  ]
+}
+</script>
 ## Die Weltkarte mit Ländern als magnetisches Glasbild
 
 {{% img-right title="Weltkarte mit Ländern als Glasbild" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/weltkarte-glasbild.jpg?v=1601453372" alt="Weltkarte mit Ländern als Glasbild" %}}Ein absoluter Hingucker in Deiner Wohnungseinrichtung. Modern und elegant hängt die rahmenlose Weltkarte mit Ländern und wird hinter brillantem Echt-Glas präsentiert, so dass sich ein stilvoller Hochglanz-Effekt ergibt. Die Weltkarte Glasbild ist ein sehr massives und schweres Wandbild und doch besticht es mit einem fast unnahbaren Eleganz. Durch die unsichtbaren Aufhängungen schwebt es geradezu vor Deiner Wand. Wenn Du es gern so richtig luxuriös hast und zudem auch klinisch sauber, dann solltest Du Dirdie Weltkarte mit Ländern als Glasbild genauer anschauen. Die Glasoberfläche ist nicht nur ein natürliches makelloses Material, sondern lässt sich auch absolut staubfrei säubern, wie man es von jeder Glasoberfläche kennt.
@@ -14,22 +70,22 @@ Unsere Weltkarte mit Ländern als Glasbild ist ein schickes Wandbild für modern
 
 ## Weltkarte mit Ländern, Städten, Meeren für Weltenbummler und Träumer
 
-{{% img-left title="Weltkarte mit Ländern, Städten und Meeren" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/weltkarte-glasbild-schiff.jpg?v=1601452848" alt="Weltkarte mit Ländern beschriften" %}}Auf Deiner Weltkarte mit Ländern in unterschiedlichen Farben kannst Du schnell Ländergrenzen erfassen. Die Hauptstädte haben wir Dir deutlich markiert. Die Weltkarte Glasbild kann z.B. auch mit einem Kreidestift beschrieben werden. Dadurch kannst Du die Route Deiner nächsten Rundreise durch Australien oder der Kreuzfahrt entlang der afrikanischen Küste markieren. 
+{{% img-left title="Weltkarte mit Ländern, Städten und Meeren" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/weltkarte-glasbild-schiff.jpg?v=1601452848" alt="Weltkarte mit Ländern beschriften" %}}Auf Deiner Weltkarte mit Ländern in unterschiedlichen Farben kannst Du schnell Ländergrenzen erfassen. Die Hauptstädte haben wir Dir deutlich markiert. Die Weltkarte Glasbild kann z.B. auch mit einem Kreidestift beschrieben werden. Dadurch kannst Du die Route Deiner nächsten Rundreise durch Australien oder der Kreuzfahrt entlang der afrikanischen Küste markieren.
 
 Wir haben bei der Gestaltung der Weltkarte darauf geachtet, dass die Städtenamen auch in der kleinen Größe von 80 x 60 cm noch gut zu lesen sind. Sollten Dir die eingezeichneten Städte und Länder nicht ausreichen können wir gerne über [individuelle Lösung](https://www.lanakk.com/pages/deine-individuelle-weltkarte) sprechen.
 {{% /img-left %}}
 
 ## Weltkarte Glasbild und Magnetboard zum Sammeln und Markieren von Erinnerungen
 
-{{% img-right title="Weltkarte Glasbild mit Neodym Magneten markieren" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/weltkarte-glasbild-wuerfel.jpg?v=1601452847" alt="Weltkarte mit Ländern magnetisch" %}}In der magnetischen Ausführung kannst Du Deine Weltkarte  mit Ländern auch mit Neodym Magneten markieren. Dadurch kannst Du Sehenswürdigkeiten und Städte hervorheben oder sogar kleine Erinnerungen, wie Flugtickets oder Postkarten anbringen. 
+{{% img-right title="Weltkarte Glasbild mit Neodym Magneten markieren" src="https://cdn.shopify.com/s/files/1/0024/1883/5519/files/weltkarte-glasbild-wuerfel.jpg?v=1601452847" alt="Weltkarte mit Ländern magnetisch" %}}In der magnetischen Ausführung kannst Du Deine Weltkarte  mit Ländern auch mit Neodym Magneten markieren. Dadurch kannst Du Sehenswürdigkeiten und Städte hervorheben oder sogar kleine Erinnerungen, wie Flugtickets oder Postkarten anbringen.
 markiere die Ziele Deiner nächsten Weltreise mit Magneten
 befestige Fotos, Postkarten oder Flugtickets ✈️  an Deiner Weltkarte mit Ländern
 beschrifte Deine Weltkarte Glasbild mit Kreidestift,
-nutze Klebepunkte oder Sticker, um wichtige Punkte zu markieren.
+           nutze Klebepunkte oder Sticker, um wichtige Punkte zu markieren.
 
-Deine Weltkarte mit Länder wird erst durch Dich zu etwas Lebendigem. Jedes markierte Ziel, jede verzeichnete Erinnerung hauchen ihr Leben und Persönlichkeit ein. 
+           Deine Weltkarte mit Länder wird erst durch Dich zu etwas Lebendigem. Jedes markierte Ziel, jede verzeichnete Erinnerung hauchen ihr Leben und Persönlichkeit ein.
 
-Wir haben schon viele Fotos von wirklich kreativen Weltkartenbeschriftungen bekommen. Wir freuen uns über jedes Foto! Einfach an die [Email](https://www.lanakk.com/pages/impressum) senden 😎.
+           Wir haben schon viele Fotos von wirklich kreativen Weltkartenbeschriftungen bekommen. Wir freuen uns über jedes Foto! Einfach an die [Email](https://www.lanakk.com/pages/impressum) senden 😎.
 {{% /img-right %}}
 
 {{% block %}}
@@ -48,7 +104,7 @@ Auf Wunsch können wir die Weltkarte mit Ländern auch anpassen. Gerade die Deta
 ## Weltkarte Glasbild - ein edler Eyecatcher für Dein Wohnzimmer oder Büro
 
 {{% block %}}Eine Glasbild Weltkarte ist ein edles Accessoire für jeden Raum. Wir finden, dass die Verwendung von echtem Glas für eine Weltkarte mit Ländern und Städten eine edle und moderne Optik schafft. Der Unterschied zu billigen Alternativen aus Acryl oder Plexi ist sofort sichtbar. Eine Weltkarte aus Glas wirkt einfach prominent in jedem Raum.
-Uns ist wichtig, dass Du Deine Weltkarte mit Ländern Dich lange begleiten kann. Eine Weltkarte mit Ländern als Glasbild sieht über Jahrzehnte noch so aus wie am ersten Tag. 
+Uns ist wichtig, dass Du Deine Weltkarte mit Ländern Dich lange begleiten kann. Eine Weltkarte mit Ländern als Glasbild sieht über Jahrzehnte noch so aus wie am ersten Tag.
 {{% /block %}}
 
 ## Personalisiere Deine Weltkarte
@@ -83,7 +139,7 @@ Jede magnetische Weltkarte Glasbild ist lichtundurchlässigen und somit verliere
 
 ## Weltkarten mit Ländern und Projektionen
 
-{{% block %}}Auch wenn die wenigsten sich heutzutage darum Gedanken machen, aber die Darstellung unserer Welt ist eine Wissenschaft für sich. Es gibt verschiedene Methoden, um die Welt in Ihrer dreidimensionalen Kugelform als zweidimensionale Weltkarte mit Ländern darzustellen. Man spricht hier von sogenannten Projektionen 🗺. 
+{{% block %}}Auch wenn die wenigsten sich heutzutage darum Gedanken machen, aber die Darstellung unserer Welt ist eine Wissenschaft für sich. Es gibt verschiedene Methoden, um die Welt in Ihrer dreidimensionalen Kugelform als zweidimensionale Weltkarte mit Ländern darzustellen. Man spricht hier von sogenannten Projektionen 🗺.
 Die Verwendung der Projektionen können je nach Weltkarte und Anwendungszweck sehr unterschiedlich sein. Oft wird für die Darstellung Weltkarte mit Ländern ein Kompromiss genutzt. Die Weltkarte Glasbild von Lana KK® nutzt z.B. bei der World Map Serie die Robinson Projektion. Wir haben uns für diese Projektion entschieden, weil sie sehr natürlich wirkt.
 
 Mehr Infos zum Thema Projektionen unter: https://kartenprojektionen.de

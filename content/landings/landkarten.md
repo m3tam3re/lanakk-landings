@@ -100,6 +100,12 @@ title = "Landkarten"
 {{% block %}}Wir haben detailreiches Kartenmaterial und ein fähiges Designteam für Deine Traumkarte. Möchtest Du gern auf Deiner Landkarte Pinnwand eine Legende eingedruckt haben? Wir beraten Dich.😊{{% /block %}}
 {{% block %}}Du kannst jede Landkarte, ob Karte von Europa, Deutschlandkarte uvm., als klassisches Leinwandbild als Pinnwand mit Korkrückwand, als modernes Glasbild oder auch als Poster bzw. Klebeposter bestellen. Schau Dich um und finde, was am besten zu Dir passt.{{% /block %}}
 
+{{% block %}}
+
+{{< youtube bMOT2-0h1QI >}}
+
+{{% /block%}}
+
 ## Bestelle Deine Landkarte als Leinwand mit Korkrückwand
 
 {{% block %}}Mit Deiner Landkarte als Leinwand stehen Dir alle Möglichkeiten offen. Sie ist nicht nur ein toller Blickfang, sondern bietet Dir auch jede Menge Möglichkeiten Deine Reisen festzuhalten. Hast Du vielleicht Städtereisen durch Europa unternommen? Bist Du viel in Österreich unterwegs zum Wandern? Oder entdeckst Du die viele schönen Ecken innerhalb Deutschlands? All diese ganz speziellen Erinnerungen kannst Du Pin für Pin zu einem Gesamtkunstwerk verbinden.{{% /block %}}
@@ -108,12 +114,6 @@ title = "Landkarten"
 Erlebe so Daheim Deine größten Abenteuer noch einmal und berichte Deinen Gästen von all den wundervollen Orten, an denen Du warst. Du wirst sehen - Deine Landkarte wird immer für Gesprächsstoff und spannende Geschichten sorgen.🤠 
 
 {{% /img-right %}}
-
-{{% block %}}
-
-{{< youtube jzqRExJKyH8 >}}
-
-{{% /block%}}
 
 ### Premium oder Luxus - welcher Typ bist Du?  
 
